@@ -1,4 +1,4 @@
 package com.project.PathFinder.repository;
 
-public class MessageRepository {
+public interface MessageRepository {
 }

@@ -1,4 +1,4 @@
 package com.project.PathFinder.repository;
 
-public class PictureRepository {
+public interface PictureRepository {
 }

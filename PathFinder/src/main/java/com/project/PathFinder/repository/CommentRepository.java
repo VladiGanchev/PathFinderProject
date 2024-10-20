@@ -1,4 +1,4 @@
 package com.project.PathFinder.repository;
 
-public class CommentRepository {
+public interface CommentRepository {
 }
