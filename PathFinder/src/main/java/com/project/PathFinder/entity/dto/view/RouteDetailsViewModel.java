@@ -1,4 +1,4 @@
-package com.project.PathFinder.entity.dto;
+package com.project.PathFinder.entity.dto.view;
 
 public class RouteDetailsViewModel {
     private String description;

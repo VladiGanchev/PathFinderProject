@@ -1,4 +1,4 @@
-package com.project.PathFinder.entity.dto;
+package com.project.PathFinder.entity.dto.binding;
 
 import com.project.PathFinder.entity.enums.CategoryName;
 import com.project.PathFinder.entity.enums.Level;

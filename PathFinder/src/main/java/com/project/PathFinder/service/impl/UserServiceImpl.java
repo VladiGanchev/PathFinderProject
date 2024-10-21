@@ -1,7 +1,7 @@
 package com.project.PathFinder.service.impl;
 
 import com.project.PathFinder.entity.User;
-import com.project.PathFinder.entity.dto.UserProfileViewModel;
+import com.project.PathFinder.entity.dto.view.UserProfileViewModel;
 import com.project.PathFinder.repository.UserRepository;
 import com.project.PathFinder.service.UserService;
 import com.project.PathFinder.service.session.LoggedUser;

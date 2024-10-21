@@ -1,8 +1,8 @@
 package com.project.PathFinder.controller;
 
-import com.project.PathFinder.entity.dto.UserLoginBindingModel;
-import com.project.PathFinder.entity.dto.UserRegisterBindingModel;
-import com.project.PathFinder.entity.dto.UserProfileViewModel;
+import com.project.PathFinder.entity.dto.binding.UserLoginBindingModel;
+import com.project.PathFinder.entity.dto.binding.UserRegisterBindingModel;
+import com.project.PathFinder.entity.dto.view.UserProfileViewModel;
 import com.project.PathFinder.service.AuthenticationService;
 import com.project.PathFinder.service.UserService;
 import org.springframework.stereotype.Controller;

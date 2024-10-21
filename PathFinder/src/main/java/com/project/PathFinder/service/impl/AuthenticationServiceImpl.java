@@ -2,8 +2,8 @@ package com.project.PathFinder.service.impl;
 
 import com.project.PathFinder.entity.Role;
 import com.project.PathFinder.entity.User;
-import com.project.PathFinder.entity.dto.UserLoginBindingModel;
-import com.project.PathFinder.entity.dto.UserRegisterBindingModel;
+import com.project.PathFinder.entity.dto.binding.UserLoginBindingModel;
+import com.project.PathFinder.entity.dto.binding.UserRegisterBindingModel;
 import com.project.PathFinder.entity.enums.Level;
 import com.project.PathFinder.entity.enums.UserRoles;
 import com.project.PathFinder.repository.UserRepository;

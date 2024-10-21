@@ -1,4 +1,4 @@
-package com.project.PathFinder.entity.dto;
+package com.project.PathFinder.entity.dto.binding;
 
 public class UserLoginBindingModel {
 

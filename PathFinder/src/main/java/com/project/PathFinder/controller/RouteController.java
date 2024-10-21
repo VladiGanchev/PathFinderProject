@@ -1,8 +1,8 @@
 package com.project.PathFinder.controller;
 
-import com.project.PathFinder.entity.dto.AddRouteBindingModel;
-import com.project.PathFinder.entity.dto.RouteDetailsViewModel;
-import com.project.PathFinder.entity.dto.RouteViewModel;
+import com.project.PathFinder.entity.dto.binding.AddRouteBindingModel;
+import com.project.PathFinder.entity.dto.view.RouteDetailsViewModel;
+import com.project.PathFinder.entity.dto.view.RouteViewModel;
 import com.project.PathFinder.entity.enums.CategoryName;
 import com.project.PathFinder.entity.enums.Level;
 import com.project.PathFinder.service.RouteService;
